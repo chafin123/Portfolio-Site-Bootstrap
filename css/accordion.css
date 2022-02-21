@@ -1,0 +1,23 @@
+#skillAccordion {
+    width: 50%;
+    margin: auto;
+    padding-top: 8rem;
+    border-radius: 1%;
+}
+.accordion-button{
+    color: #0FF;
+    background: #858b97;
+}
+.accordion-button:not(.collapsed) {
+    color: #0FF;
+    background-color:#858b97 ;
+}
+.accordion-collapse {
+    background: #6d727c;
+    color: white;
+}
+
+.show {
+    color: white;
+}
+

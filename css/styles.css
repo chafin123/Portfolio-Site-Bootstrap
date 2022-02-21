@@ -1,0 +1,21 @@
+body {
+    font-size: 62.5%;
+    background-color: #858b97;
+}
+h1 {
+    color: #0FF;
+}
+h1, p {
+    font-family: "Abel", sans-serif ;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+header {
+    color: #0FF;
+}
+.socialLinks {
+    text-decoration: none;
+    color: inherit;
+}
